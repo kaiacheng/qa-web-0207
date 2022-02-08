@@ -1,0 +1,9 @@
+{
+    "azureFunctions.deploySubpath": "api",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.pythonVenv": ".venv",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen",
+    "python.envFile": "C:\\Users\\kaia.cheng\\qa-web-0207\\qa-web-0207\\api\\.venv"
+}
